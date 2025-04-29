@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pathum05theekshana@gmail.com**
 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+ <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
