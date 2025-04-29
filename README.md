@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pathum Theekshana</h1>
 <h3 align="center">A passionate fullstack developer from  Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pextha&label=Profile%20views&color=0e75b6&style=flat" alt="pextha" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/pextha?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/pextha?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pextha.repoName) <img src="https://komarev.com/ghpvc/?username=pextha" alt="pextha" />
+
 
  <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
