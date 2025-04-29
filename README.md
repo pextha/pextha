@@ -2,8 +2,9 @@
 
 
 
-<h1 align="center"><code>Pathum Theekshana</code></h1>
 
+<h1 align="center">Pathum Theekshana</h1>
+</font>
 
 <br>
 
