@@ -1,9 +1,11 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Pathum+Theekshana+!;I'm+a+Fullstack+Developer...;I+am+an+undergraduate+Student+at+NSBM+Green+University;)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi 👋, I'm Pathum Theekshana</h1>
-<h3 align="center">A passionate fullstack developer from  Srilanka</h3>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Pathum+Theekshana+!;I'm+a+Fullstack+Developer...;I+am+an+undergraduate+Student+at+NSBM+Green+University;)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/pextha?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/pextha?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pextha.repoName) <img src="https://komarev.com/ghpvc/?username=pextha" alt="pextha" />
 
