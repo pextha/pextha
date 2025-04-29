@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+![image](https://github.com/user-attachments/assets/5900baff-8014-4d22-bbbe-4e2d3ae51964)<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Pathum Theekshana</h1>
 
@@ -22,7 +22,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pathum theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathum theekshana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pathum-theekshana-a24b27287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathum theekshana" height="30" width="40" /></a>
 <a href="https://instagram.com/_pe.x.tha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pe.x.tha_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pextha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pextha" height="30" width="40" /></a>
 </p>
