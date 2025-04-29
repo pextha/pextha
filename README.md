@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pextha&label=Profile%20views&color=0e75b6&style=flat" alt="pextha" /> </p>
 
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m currently working on [Panchikawaththa-MAD-Final-Course-Work](https://github.com/ImeshNaveen/Panchikawaththa-MAD-Final-Course-Work.git)
 
@@ -12,7 +12,6 @@
 - 👨‍💻 All of my projects are available at [portfolio-git-main-pexthas-projects.vercel.app](portfolio-git-main-pexthas-projects.vercel.app)
 
 - 📫 How to reach me **pathum05theekshana@gmail.com**
-
 
 ---
 <h3 align="left">Connect with me:</h3>
