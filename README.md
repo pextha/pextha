@@ -11,6 +11,8 @@
 - 👨‍💻 All of my projects are available at [portfolio-git-main-pexthas-projects.vercel.app](portfolio-git-main-pexthas-projects.vercel.app)
 
 - 📫 How to reach me **pathum05theekshana@gmail.com**
+
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
