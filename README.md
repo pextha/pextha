@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5900baff-8014-4d22-bbbe-4e2d3ae51964)<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Pathum Theekshana</h1>
 
