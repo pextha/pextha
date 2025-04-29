@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Pathum Theekshana</h1>
+<h1 align="center"> Pathum Theekshana</h1>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Pathum+Theekshana+!;I'm+a+Fullstack+Developer...;I+am+an+undergraduate+Student+at+NSBM+Green+University;)](https://git.io/typing-svg)
